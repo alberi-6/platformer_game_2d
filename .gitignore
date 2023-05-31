@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# CMake
+build/
+CMakeFiles/
+
 # Other
 knowledge_base/
-
